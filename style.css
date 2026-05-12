@@ -1,0 +1,146 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: lightgreen;
+    border-radius: 20px;
+    
+    
+    
+}
+.logo{
+    color: white;
+    font-size: 20px;
+}
+.navlinks{
+    display: flex;
+    list-style: none;
+    gap: 50px;
+    justify-content: space-between;
+    color: white;
+}
+.btn{
+    /* padding: 10px; */
+    border-radius: 10px;
+    margin: 70px;
+    
+    
+
+}
+.hero{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px
+}
+.heroimage{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    border: 10px;
+    border-radius: 50px;
+
+    
+    
+    
+    
+    
+}
+
+
+
+.title{
+    color: yellow;
+    font-size: 30px;
+}
+.description{
+    margin-bottom: 10px;
+}
+.button{
+    border-radius: 10px;
+    padding: 10px;
+    margin: 20px;
+    background-color: aquamarine;
+}
+.hirebutton{
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.hero-button{
+    display: flex;
+    gap: 15px;
+    margin-top: 20px    ;
+}
+.cont{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    background-color: orange;
+}
+.services{
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.services-card{
+    display: flex;
+    gap: 30px;
+}
+.card{
+    margin: 10px;
+    padding: 25px;
+    border-radius: 15px;
+    background-color: gray;
+}
+
+.view-btn{
+    border-radius: 20px;
+    margin: 20px;
+    padding:5px;
+    background-color: lightgreen;
+    color: white;
+}
+.s-class{
+    color: yellow;
+}
+.about{
+    background-color: green;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
+    gap: 30px;
+}
+
+.about-image{
+    border-radius: 30px;
+
+}
+.stats{
+    display: flex;
+    gap: 30px;
+    margin: 30px;
+}
+.cv-btn{
+    padding: 20px;
+    border-radius: 25px;
+}
+
+
+
+
+
+
+
+
+
