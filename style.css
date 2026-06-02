@@ -8,6 +8,8 @@ body{
     align-items: center;
     background-color: lightgreen;
     border-radius: 20px;
+    height: 100px;
+    padding-right: 30px;
     
     
     
@@ -15,6 +17,7 @@ body{
 .logo{
     color: white;
     font-size: 20px;
+    
 }
 .navlinks{
     display: flex;
@@ -30,6 +33,10 @@ body{
     
     
 
+}
+
+.olivia{
+    margin-right: 30px;    
 }
 .hero{
     display: flex;
@@ -54,8 +61,12 @@ body{
 
 
 .title{
-    color: yellow;
+    color: black;
     font-size: 30px;
+}
+.smith{
+    color: rgb(221, 221, 2);
+   
 }
 .description{
     margin-bottom: 10px;
@@ -71,6 +82,14 @@ body{
     padding: 10px;
     margin: 10px;
     border-radius: 10px;
+}
+a{ 
+    text-decoration: none;
+    color: darkred;
+}
+a:hover{
+    color: blue;
+    text-decoration: underline;
 }
 
 .hero-button{
@@ -107,7 +126,7 @@ body{
     margin: 20px;
     padding:5px;
     background-color: lightgreen;
-    color: white;
+    color:black;
 }
 .s-class{
     color: yellow;
@@ -127,13 +146,19 @@ body{
 
 }
 .stats{
-    display: flex;
-    gap: 30px;
-    margin: 30px;
+    display: block;
+    
 }
 .cv-btn{
     padding: 20px;
     border-radius: 25px;
+}
+.llm{
+    display: flex;
+    gap: 30px;
+    margin: 30px;
+    border: 1px;
+    
 }
 
 

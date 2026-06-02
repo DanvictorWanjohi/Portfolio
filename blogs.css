@@ -1,0 +1,48 @@
+.lat{
+    display: flex;
+    gap: 900px;
+    padding-right: 100px;
+}
+
+.all{
+    border-radius: 20px;
+    margin-top: 40px;
+   
+}
+.bl{
+    color: rgb(225, 225, 2);
+}
+.ui{
+    margin: 30px;
+    /* padding: 30px; */
+    border-radius: 20px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    background-color: aqua;
+}
+h1{
+    font-size: 10px;
+}
+.pp{
+    gap: 30px;
+    text-align: bottom;
+    border-radius: 100px;
+    margin: 30px;
+    display: block;
+}
+
+.pp1{
+    gap: 30px;
+    text-align: bottom;
+    border-radius: 100px;
+    margin: 30px;
+    display: block;
+}
+
+.pp2{
+    gap: 30px;
+    text-align: bottom;
+    border-radius: 100px;
+    margin: 30px;
+    display: block;
+}

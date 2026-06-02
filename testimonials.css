@@ -1,0 +1,64 @@
+.test{
+   text-align: center;
+}
+
+.cl{
+    color: rgb(230, 230, 3);
+}
+h3{
+    font-size: 25px;
+}
+.dol1{
+    margin: 30px;
+    padding: 30px;
+    border-radius: 20px;
+  
+}
+.test-dol{
+    display: flex;
+    gap: 30px;
+}
+.als{
+    color: yellow;
+}
+.dol2{
+    margin: 30px;
+    padding: 30px;
+    border-radius: 20px;
+    
+}
+.imp{
+    background-color: lightgreen;
+    display: grid;
+    grid-template-columns:repeat(4, 1fr) ;
+    border-radius: 30px;
+    
+}
+.dol3{
+    margin: 30px;
+    padding: 30px;
+    border-radius: 20px;
+    
+}
+
+.dol4{
+    margin: 30px;
+    padding: 30px;
+    border-radius: 20px;
+    
+}
+
+.dol5{
+    margin: 30px;
+    padding: 30px;
+    border-radius: 20px;
+    
+}
+
+.dol6{
+    margin: 30px;
+    padding: 30px;
+    border-radius: 20px;
+    
+}
+

@@ -1,0 +1,32 @@
+form{
+   
+    background-color: lightgreen;
+    border: 2px solid black;
+    padding: 15px;
+    margin: 300px;
+    width: 300px;
+    border-radius: 15px;
+
+    height: auto;
+}
+input{
+    height: 30px;
+    border: 3px solid darkgreen;
+    border-radius: 10px;
+}
+button{
+    border: none;
+    border-radius: 5px;
+    color: white;
+    background-color: palevioletred;
+    height: 40px;
+    width: 150px;
+}
+select{
+    height: 40px;
+    width: 150px;
+    background-color: lightcoral;
+}
+.gender{
+    display: flex;
+}
